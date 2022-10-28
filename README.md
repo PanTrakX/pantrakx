@@ -20,6 +20,12 @@ Have released 2 games:
 1. Haos, a 2D roguelite pc game, made in 3-4 months and released on [Steam](https://store.steampowered.com/app/1681380/Haos/) and [Itch.io](https://pantrakx.itch.io/haos)
 2. Rhombuz, a 2D mobile game, made in 1-2 months and released on [Google play](https://play.google.com/store/apps/details?id=me.pantrakx.rhombuz) and [Itch.io](https://pantrakx.itch.io/rhombuz).
 
+<!-- ![PanTrakX](https://www.hackthebox.eu/badge/image/316341) -->
+
+### Social Links
+- [Website](http://pantrakx.me)
+- [Twitter](https://instragram.com/twitter)
+- [LinkedIn](https://linkedin.com/in/PanTrakX)
 <!--
 **PanTrakX/pantrakx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

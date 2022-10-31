@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=PanTrakX)
 
 I am **Panagiotis "PanTrakX" Trakadas**
 

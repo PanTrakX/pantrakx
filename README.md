@@ -1,4 +1,3 @@
-![pantrakx](https://user-images.githubusercontent.com/62219596/200698251-94925639-e483-42a1-9915-d2a9abe68e98.svg)
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=PanTrakX)
 
